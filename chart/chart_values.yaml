@@ -1,2 +1,6 @@
-null
-...
+apiVersion: v2
+dependencies: []
+description: description
+name: name
+type: application
+version: 1.2.3
